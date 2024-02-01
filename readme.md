@@ -17,8 +17,6 @@
   <img alt="Menu" src="preview.JPG" width="100%">
 </p>
 
-*[🔗 Clique aqui para acessar](https://natapires.github.io/restaurantmenu/)*
-
 ## 🛠 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
